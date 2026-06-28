@@ -18,6 +18,11 @@ Persistence: json
 # Roadmap
 
 1. 2D object editor
+    1. Render objects
+    2. Drag objects
+    3. Multiple objects
+    4. Different Shapes
+    5. Groups (ie drums)
 2. Persistent objects
 3. Ports
 4. Manual Cable Running
